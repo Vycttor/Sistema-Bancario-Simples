@@ -39,7 +39,7 @@ Projeto criado durante a imersão em Python do BootCamp Santander + DIO, com sup
 ## Como executar
 
 ```bash
-git clone https://github.com/seu-usuario/sistema-bancario.git
+git clone https://github.com/Vycttor/Sistema-Bancario-Simples.git
 
 python app.py
 ````
