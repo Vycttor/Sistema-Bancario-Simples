@@ -4,7 +4,7 @@ Um sistema bancário desenvolvido em Python como projeto do BootCamp Santander +
 
 ## Mentoria
 
-Projeto criado durante a imersão em Python do BootCamp Santander + DIO, com supervisão de mentores e troca ativa com mais de 1.000 colegas em um contexto de aprendizado colaborativo.
+Projeto criado durante a imersão em Python do BootCamp Santander + DIO, com supervisão de mentores e aprendizado colaborativo.
 
 ## Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
