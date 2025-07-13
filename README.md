@@ -45,7 +45,7 @@ python app.py
 ````
 
 ## Exemplo de uso
-<img src = "img/example-1">
+![Demonstração do app](img/example-1.png)
 
 ## License
 
