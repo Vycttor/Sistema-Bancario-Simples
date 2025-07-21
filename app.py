@@ -25,7 +25,7 @@ while True:
         
         print('######################### Deposito ##########################')
         print()
-        deposito = float(input('Informe valor que deseja depositar: R$ '))
+        deposito = float(input('Informe o valor que deseja depositar: R$ '))
         print()
         print('##############################################################')
         print()
@@ -63,7 +63,7 @@ while True:
             print('##############################################################')
             
         elif saque > saldo:
-            print('Valor indisponivel para saque')
+            print('Valor indisponível para saque')
             print()
             print('##############################################################')
             
